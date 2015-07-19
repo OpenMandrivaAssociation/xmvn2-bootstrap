@@ -1,6 +1,6 @@
 Name:           xmvn2-bootstrap
 Version:        1
-Release:        1
+Release:        2
 Summary:        Parent pom file for Apache projects
 
 License:        ASL 2.0
